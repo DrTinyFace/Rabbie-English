@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rabbie.label>Rabbie</Rabbie.label>
+  <Rabbie.corePart.parts.tail.customLabel>Tail</Rabbie.corePart.parts.tail.customLabel>
+  <Rabbie.corePart.parts.left_lung.customLabel>Left lung</Rabbie.corePart.parts.left_lung.customLabel>
+  <Rabbie.corePart.parts.right_lung.customLabel>Right lung</Rabbie.corePart.parts.right_lung.customLabel>
+  <Rabbie.corePart.parts.left_kidney.customLabel>Left kidney</Rabbie.corePart.parts.left_kidney.customLabel>
+  <Rabbie.corePart.parts.right_kidney.customLabel>Right kidney</Rabbie.corePart.parts.right_kidney.customLabel>
+  <Rabbie.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Left eye</Rabbie.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <Rabbie.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Right eye</Rabbie.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <Rabbie.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Left ear</Rabbie.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <Rabbie.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Right ear</Rabbie.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.customLabel>Left shoulder</Rabbie.corePart.parts.left_shoulder.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>Left clavicle</Rabbie.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.customLabel>Left arm</Rabbie.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>Left humerus</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>Left radius</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>Left hand</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>Left pinky</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>Left ring finger</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>Left middle finger</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>Left index finger</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>Left thumb</Rabbie.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.customLabel>Right shoulder</Rabbie.corePart.parts.right_shoulder.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>Right clavicle</Rabbie.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.customLabel>Right arm</Rabbie.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>Right humerus</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>Right radius</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>Right hand</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>Right pinky</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>Right ring finger</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>Right middle finger</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>Right index finger</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>Right thumb</Rabbie.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Rabbie.corePart.parts.left_leg.customLabel>Left leg</Rabbie.corePart.parts.left_leg.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_femur.customLabel>Left femur</Rabbie.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_tibia.customLabel>Left tibia</Rabbie.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_foot.customLabel>Left foot</Rabbie.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>Left little toe</Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>Left fourth toe</Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>Left middle toe</Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>Left second toe</Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>Left big toe</Rabbie.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <Rabbie.corePart.parts.right_leg.customLabel>Right leg</Rabbie.corePart.parts.right_leg.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_femur.customLabel>Right femur</Rabbie.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_tibia.customLabel>Right tibia</Rabbie.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_foot.customLabel>Right foot</Rabbie.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>Right little toe</Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>Right fourth toe</Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>Right middle toe</Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>Right second toe</Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>Right big toe</Rabbie.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+
+  <Rabbie.corePart.parts.right_lower_shoulder.customLabel>Right lower shoulder</Rabbie.corePart.parts.right_lower_shoulder.customLabel>
+  <Rabbie.corePart.parts.left_lower_shoulder.customLabel>Left lower shoulder</Rabbie.corePart.parts.left_lower_shoulder.customLabel>
+  <Rabbie.corePart.parts.Right_Abdominal_Cavity.customLabel>Right abdomen</Rabbie.corePart.parts.Right_Abdominal_Cavity.customLabel>
+  <Rabbie.corePart.parts.Right_Chest_Cavity.customLabel>Right chest</Rabbie.corePart.parts.Right_Chest_Cavity.customLabel>
+  <Rabbie.corePart.parts.Left_Chest_Cavity.customLabel>Left chest</Rabbie.corePart.parts.Left_Chest_Cavity.customLabel>
+  <Rabbie.corePart.parts.left_abdominal_cavity.customLabel>Left abdomen</Rabbie.corePart.parts.left_abdominal_cavity.customLabel>
+
+</LanguageData>

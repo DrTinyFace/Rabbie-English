@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rabbie Settlers -->
+
+  <RB_Colonist.label>Rabbie Settler</RB_Colonist.label>
+  <RB_Colonist.labelPlural>Rabbie Settlers</RB_Colonist.labelPlural>
+  <RB_Colonist.labelMale>Rabbie Man</RB_Colonist.labelMale>
+  <RB_Colonist.labelMalePlural>Rabbie Men</RB_Colonist.labelMalePlural>
+  <RB_Colonist.labelFemale>Rabbie Woman</RB_Colonist.labelFemale>
+  <RB_Colonist.labelFemalePlural>Rabbie Women</RB_Colonist.labelFemalePlural>
+
+
+  <!-- Rabbie Electricians -->
+
+  <RB_EnergySupply.label>Rabbie Electrician</RB_EnergySupply.label>
+  <RB_EnergySupply.labelPlural>Rabbie Electricians</RB_EnergySupply.labelPlural>
+  <RB_EnergySupply.labelMale>Rabbie Electrician</RB_EnergySupply.labelMale>
+  <RB_EnergySupply.labelMalePlural>Rabbie Electricians</RB_EnergySupply.labelMalePlural>
+  <RB_EnergySupply.labelFemale>Rabbie Electrician</RB_EnergySupply.labelFemale>
+  <RB_EnergySupply.labelFemalePlural>Rabbie Electricians</RB_EnergySupply.labelFemalePlural>
+
+
+  <!-- Rabbie Technicians -->
+
+  <RB_Technician.label>Rabbie Technician</RB_Technician.label>
+  <RB_Technician.labelPlural>Rabbie Technicians</RB_Technician.labelPlural>
+  <RB_Technician.labelMale>Rabbie Technician</RB_Technician.labelMale>
+  <RB_Technician.labelMalePlural>Rabbie Technicians</RB_Technician.labelMalePlural>
+  <RB_Technician.labelFemale>Rabbie Technician</RB_Technician.labelFemale>
+  <RB_Technician.labelFemalePlural>Rabbie Technicians</RB_Technician.labelFemalePlural>
+
+
+  <!-- Rabbie Workers -->
+
+  <RB_Worker.label>Rabbie Worker</RB_Worker.label>
+  <RB_Worker.labelPlural>Rabbie Workers</RB_Worker.labelPlural>
+  <RB_Worker.labelMale>Rabbie Worker</RB_Worker.labelMale>
+  <RB_Worker.labelMalePlural>Rabbie Workers</RB_Worker.labelMalePlural>
+  <RB_Worker.labelFemale>Rabbie Worker</RB_Worker.labelFemale>
+  <RB_Worker.labelFemalePlural>Rabbie Workers</RB_Worker.labelFemalePlural>
+
+
+  <!-- Rabbie Wanderers -->
+
+  <RB_Wanderer.label>Rabbie Wanderer</RB_Wanderer.label>
+  <RB_Wanderer.labelPlural>Rabbie Wanderers</RB_Wanderer.labelPlural>
+  <RB_Wanderer.labelMale>Rabbie Wanderer</RB_Wanderer.labelMale>
+  <RB_Wanderer.labelMalePlural>Rabbie Wanderers</RB_Wanderer.labelMalePlural>
+  <RB_Wanderer.labelFemale>Rabbie Wanderer</RB_Wanderer.labelFemale>
+  <RB_Wanderer.labelFemalePlural>Rabbie Wanderers</RB_Wanderer.labelFemalePlural>
+
+
+  <!-- Rabbie Officers -->
+
+  <RB_SubOfficer.label>Rabbie Officer</RB_SubOfficer.label>
+  <RB_SubOfficer.labelPlural>Rabbie Officers</RB_SubOfficer.labelPlural>
+  <RB_SubOfficer.labelMale>Rabbie Officer</RB_SubOfficer.labelMale>
+  <RB_SubOfficer.labelMalePlural>Rabbie Officers</RB_SubOfficer.labelMalePlural>
+  <RB_SubOfficer.labelFemale>Rabbie Officer</RB_SubOfficer.labelFemale>
+  <RB_SubOfficer.labelFemalePlural>Rabbie Officers</RB_SubOfficer.labelFemalePlural>
+
+
+  <!-- Rabbie Senior Officers -->
+
+  <RB_EliteOfficer.label>Rabbie Senior Officer</RB_EliteOfficer.label>
+  <RB_EliteOfficer.labelPlural>Rabbie Senior Officers</RB_EliteOfficer.labelPlural>
+  <RB_EliteOfficer.labelMale>Rabbie Senior Officer</RB_EliteOfficer.labelMale>
+  <RB_EliteOfficer.labelMalePlural>Rabbie Senior Officers</RB_EliteOfficer.labelMalePlural>
+  <RB_EliteOfficer.labelFemale>Rabbie Senior Officer</RB_EliteOfficer.labelFemale>
+  <RB_EliteOfficer.labelFemalePlural>Rabbie Senior Officers</RB_EliteOfficer.labelFemalePlural>
+
+
+  <!-- Rabbie Soldiers, Snipers, Machinegunners, Sappers -->
+
+  <RB_FRifle.label>Rabbie Soldier</RB_FRifle.label>
+  <RB_FRifle.labelPlural>Rabbie Soldiers</RB_FRifle.labelPlural>
+  <RB_FRifle.labelMale>Rabbie Soldier</RB_FRifle.labelMale>
+  <RB_FRifle.labelMalePlural>Rabbie Soldiers</RB_FRifle.labelMalePlural>
+  <RB_FRifle.labelFemale>Rabbie Soldier</RB_FRifle.labelFemale>
+  <RB_FRifle.labelFemalePlural>Rabbie Soldiers</RB_FRifle.labelFemalePlural>
+
+  <RB_FSniper.label>Rabbie Sniper</RB_FSniper.label>
+  <RB_FSniper.labelPlural>Rabbie Snipers</RB_FSniper.labelPlural>
+  <RB_FSniper.labelMale>Rabbie Sniper</RB_FSniper.labelMale>
+  <RB_FSniper.labelMalePlural>Rabbie Snipers</RB_FSniper.labelMalePlural>
+  <RB_FSniper.labelFemale>Rabbie Sniper</RB_FSniper.labelFemale>
+  <RB_FSniper.labelFemalePlural>Rabbie Snipers</RB_FSniper.labelFemalePlural>
+
+  <RB_FMachinegunner.label>Rabbie Machinegunner</RB_FMachinegunner.label>
+  <RB_FMachinegunner.labelPlural>Rabbie Machinegunners</RB_FMachinegunner.labelPlural>
+  <RB_FMachinegunner.labelMale>Rabbie Machinegunner</RB_FMachinegunner.labelMale>
+  <RB_FMachinegunner.labelMalePlural>Rabbie Machinegunners</RB_FMachinegunner.labelMalePlural>
+  <RB_FMachinegunner.labelFemale>Rabbie Machinegunner</RB_FMachinegunner.labelFemale>
+  <RB_FMachinegunner.labelFemalePlural>Rabbie Machinegunners</RB_FMachinegunner.labelFemalePlural>
+
+  <RB_FSapper.label>Rabbie Sapper</RB_FSapper.label>
+  <RB_FSapper.labelPlural>Rabbie Sappers</RB_FSapper.labelPlural>
+  <RB_FSapper.labelMale>Rabbie Sapper</RB_FSapper.labelMale>
+  <RB_FSapper.labelMalePlural>Rabbie Sappers</RB_FSapper.labelMalePlural>
+  <RB_FSapper.labelFemale>Rabbie Sapper</RB_FSapper.labelFemale>
+  <RB_FSapper.labelFemalePlural>Rabbie Sappers</RB_FSapper.labelFemalePlural>
+
+
+  <!-- Rabbie Gunners -->
+
+  <RB_RGunner.label>Rabbie Gunner</RB_RGunner.label>
+  <RB_RGunner.labelPlural>Rabbie Gunners</RB_RGunner.labelPlural>
+  <RB_RGunner.labelMale>Rabbie Gunner</RB_RGunner.labelMale>
+  <RB_RGunner.labelMalePlural>Rabbie Gunners</RB_RGunner.labelMalePlural>
+  <RB_RGunner.labelFemale>Rabbie Gunner</RB_RGunner.labelFemale>
+  <RB_RGunner.labelFemalePlural>Rabbie Gunners</RB_RGunner.labelFemalePlural>
+
+
+</LanguageData>

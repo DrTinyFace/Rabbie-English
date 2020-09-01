@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Rabbie The Moonrabbit English Translation</name>
+	<author>DrTinyFace</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>DrTinyFace.EnglishRabbie</packageId>
+	<description>
+	A complete retranslation of the Rabbie the Moonrabbit mod. Created as a way to learn the basic structuring and layout of Rimworld mods, and also to update the (as of 8/30/2020) unupdated English translation mod.
+  </description>
+</ModMetaData>

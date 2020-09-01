@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refined Planetarium Consumption -->
+
+  <RefinedPlanetarium.label>Refined Planetarium</RefinedPlanetarium.label>
+  <RefinedPlanetarium.labelNoun>Refined Planetarium</RefinedPlanetarium.labelNoun>
+
+
+  <!-- Brain Crystal Consumption -->
+
+  <Braincrystal.label>Brain Crystal</Braincrystal.label>
+  <Braincrystal.labelNoun>Brain Crystal</Braincrystal.labelNoun>
+
+
+  <!-- Planetarium Tea Consumption -->
+
+  <PlanetariumTea.label>Planetarium Tea</PlanetariumTea.label>
+  <PlanetariumTea.labelNoun>Planetarium Tea</PlanetariumTea.labelNoun>
+
+
+  <!-- Planetarium Flow -->
+
+  <Whisperofplanet.label>Whispers of a Planet</Whisperofplanet.label>
+  <Whisperofplanet.comps.0.discoverLetterLabel>Visions from a Foreign Planet</Whisperofplanet.comps.0.discoverLetterLabel>
+  <Whisperofplanet.comps.0.discoverLetterText>A foreign planet is whispering to {0}. They will see a vague shadow of the future, giving them slightly better sight.</Whisperofplanet.comps.0.discoverLetterText>
+
+
+  <!-- Planetarium Addiction -->
+
+  <PlanetariumAddiction.label>Planetarium Addiction</PlanetariumAddiction.label>
+  <PlanetariumAddiction.comps.0.discoverLetterLabel>Planetarium Addiction</PlanetariumAddiction.comps.0.discoverLetterLabel>
+  <PlanetariumAddiction.comps.0.discoverLetterText>A small amount of planetarium permanently flows through {0}'s body. They will need a permanent supply of planetarium to prevent withdrawals.</PlanetariumAddiction.comps.0.discoverLetterText>
+  <PlanetariumAddiction.stages.1.label>Permanent</PlanetariumAddiction.stages.1.label>
+
+
+</LanguageData>
