@@ -6,17 +6,17 @@
 
   <!-- Recipe Users: RB_MoonTailoringBench -->
 
-  <Make_RB_CasualTshirt.label>래비 캐주얼 티셔츠 제작</Make_RB_CasualTshirt.label>
-  <Make_RB_CasualTshirt.description>래비 캐주얼 티셔츠 제작.</Make_RB_CasualTshirt.description>
-  <Make_RB_CasualTshirt.jobString>래비 캐주얼 티셔츠 제작.</Make_RB_CasualTshirt.jobString>
+  <Make_RB_CasualTshirt.label>Create Rabbie casual tshirt</Make_RB_CasualTshirt.label>
+  <Make_RB_CasualTshirt.description>Create a Rabbie casual tshirt.</Make_RB_CasualTshirt.description>
+  <Make_RB_CasualTshirt.jobString>Making a Rabbie casual tshirt.</Make_RB_CasualTshirt.jobString>
 
-  <Make_RB_Apron.label>래비 실내용 앞치마 제작</Make_RB_Apron.label>
-  <Make_RB_Apron.description>래비 실내용 앞치마 제작.</Make_RB_Apron.description>
-  <Make_RB_Apron.jobString>래비 실내용 앞치마 제작.</Make_RB_Apron.jobString>
+  <Make_RB_Apron.label>Create Rabbie apron</Make_RB_Apron.label>
+  <Make_RB_Apron.description>Create a Rabbie apron.</Make_RB_Apron.description>
+  <Make_RB_Apron.jobString>Making a Rabbie apron.</Make_RB_Apron.jobString>
 
-  <Make_RB_Earjacket.label>래비 토끼후드 바람막이 제작</Make_RB_Earjacket.label>
-  <Make_RB_Earjacket.description>래비 토끼후드 바람막이 제작.</Make_RB_Earjacket.description>
-  <Make_RB_Earjacket.jobString>래비 토끼후드 바람막이 제작.</Make_RB_Earjacket.jobString>
+  <Make_RB_Earjacket.label>Create Rabbie earjacket</Make_RB_Earjacket.label>
+  <Make_RB_Earjacket.description>Create a Rabbie earjacket.</Make_RB_Earjacket.description>
+  <Make_RB_Earjacket.jobString>Making a Rabbie earjacket.</Make_RB_Earjacket.jobString>
 
   <Make_RB_Casualribbonshirt.label>래비 리본셔츠 제작</Make_RB_Casualribbonshirt.label>
   <Make_RB_Casualribbonshirt.description>래비 리본셔츠 제작.</Make_RB_Casualribbonshirt.description>
@@ -138,9 +138,9 @@
 
   <!-- Recipe Users: RB_MoonTableMachining -->
 
-  <Make_RB_Glasses.label>래비 인텔리 안경 제작</Make_RB_Glasses.label>
-  <Make_RB_Glasses.description>래비 인텔리 안경 제작.</Make_RB_Glasses.description>
-  <Make_RB_Glasses.jobString>래비 인텔리 안경 제작.</Make_RB_Glasses.jobString>
+  <Make_RB_Glasses.label>Create Rabbie glasses</Make_RB_Glasses.label>
+  <Make_RB_Glasses.description>Create Rabbie glasses.</Make_RB_Glasses.description>
+  <Make_RB_Glasses.jobString>Making Rabbie glasses.</Make_RB_Glasses.jobString>
 
 
   <!-- Recipe Users: RB_MoonTailoringBench -->
@@ -171,9 +171,9 @@
 
   <!-- Recipe Users: Campfire, ElectricStove, FueledStove -->
 
-  <Make_PlanetariumTea.label>플라네타륨 차 끓이기</Make_PlanetariumTea.label>
-  <Make_PlanetariumTea.description>플라네타륨 차 끓이기.</Make_PlanetariumTea.description>
-  <Make_PlanetariumTea.jobString>플라네타륨 차 끓이기.</Make_PlanetariumTea.jobString>
+  <Make_PlanetariumTea.label>Make planetarium tea</Make_PlanetariumTea.label>
+  <Make_PlanetariumTea.description>Make planetarium tea.</Make_PlanetariumTea.description>
+  <Make_PlanetariumTea.jobString>Making planetarium tea.</Make_PlanetariumTea.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
