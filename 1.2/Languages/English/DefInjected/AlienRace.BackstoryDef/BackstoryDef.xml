@@ -3,64 +3,64 @@
 
   <!-- Ship Orphan -->
 
-  <Rabbie_Shiporphan.title>Rabbie Ship Orphan</Rabbie_Shiporphan.title>
+  <Rabbie_Shiporphan.title>Rabbie ship orphan</Rabbie_Shiporphan.title>
   <Rabbie_Shiporphan.titleShort>Orphan</Rabbie_Shiporphan.titleShort>
   <Rabbie_Shiporphan.baseDescription>[PAWN_nameDef] ended up on the wrong ship the day [PAWN_possessive] family moved into outer space. Awakening on a new, distant moon,[PAWN_pronoun] made a living as a construction worker. Work was hard and [PAWN_nameDef] never saw [PAWN_possessive] family again, but [PAWN_pronoun] eventually adjusted to [PAWN_possessive] new life.</Rabbie_Shiporphan.baseDescription>
 
 
   <!-- Farmkid -->
 
-  <Rabbie_Farmkid.title>Rabbie Farmkid</Rabbie_Farmkid.title>
+  <Rabbie_Farmkid.title>Rabbie farmkid</Rabbie_Farmkid.title>
   <Rabbie_Farmkid.titleShort>Farmkid</Rabbie_Farmkid.titleShort>
   <Rabbie_Farmkid.baseDescription>[PAWN_nameDef] grew up in deep space helping [PAWN_possessive] parents grow food at their lunar greenhouse. They were poor, but they had enough to send [PAWN_nameDef] to school, and [PAWN_pronoun] learned about growing various vegetables on the farm.</Rabbie_Farmkid.baseDescription>
 
 
   <!-- Rabbie Dishwasher -->
 
-  <Rabbie_Dishwasher.title>Rabbie Dishwasher</Rabbie_Dishwasher.title>
+  <Rabbie_Dishwasher.title>Rabbie dishwasher</Rabbie_Dishwasher.title>
   <Rabbie_Dishwasher.titleShort>Dishwasher</Rabbie_Dishwasher.titleShort>
   <Rabbie_Dishwasher.baseDescription>[PAWN_nameDef] began as a dishwasher in a restaurant but quickly learned to cook by watching the chefs work. [PAWN_possessive] carrot dish did not make [PAWN_possessive] famous, but at least [PAWN_possessive] coworkers enjoyed it.</Rabbie_Dishwasher.baseDescription>
 
 
   <!-- Child Soldier -->
 
-  <Rabbie_Childsoldier.title>Rabbie Child Soldier</Rabbie_Childsoldier.title>
-  <Rabbie_Childsoldier.titleShort>Child Soldier</Rabbie_Childsoldier.titleShort>
+  <Rabbie_Childsoldier.title>Rabbie child soldier</Rabbie_Childsoldier.title>
+  <Rabbie_Childsoldier.titleShort>Child soldier</Rabbie_Childsoldier.titleShort>
   <Rabbie_Childsoldier.baseDescription>[PAWN_nameDef] was born on a wartorn moon. When [PAWN_possessive] shelter was attacked and [PAWN_possessive] protectors gunned down, [PAWN_pronoun] picked up the scattered gun and chose to fight.</Rabbie_Childsoldier.baseDescription>
 
 
   <!-- Rabbie Pickpocket -->
 
-  <Rabbie_Pickpocket.title>Rabbie Pickpocket</Rabbie_Pickpocket.title>
+  <Rabbie_Pickpocket.title>Rabbie pickpocket</Rabbie_Pickpocket.title>
   <Rabbie_Pickpocket.titleShort>Pickpocket</Rabbie_Pickpocket.titleShort>
   <Rabbie_Pickpocket.baseDescription>Born on an underdeveloped moon, [PAWN_nameDef] grew up barefoot and in tattered clothes. [PAWN_pronoun] quickly learned to make [PAWN_possessive] living using [PAWN_possessive] incredible dexterity by stealing from unsuspecting folks in the downtown areas. \n\nOne day after a botched robbery, [PAWN_nameDef] was beaten within an inch of [PAWN_possessive] life, and since then [PAWN_pronoun] has turned [PAWN_possessive] life around.</Rabbie_Pickpocket.baseDescription>
 
 
   <!-- Rabbie Student -->
 
-  <Rabbie_Student.title>Rabbie Student</Rabbie_Student.title>
+  <Rabbie_Student.title>Rabbie student</Rabbie_Student.title>
   <Rabbie_Student.titleShort>Student</Rabbie_Student.titleShort>
   <Rabbie_Student.baseDescription>[PAWN_nameDef] grew up in a fairly well off area where [PAWN_pronoun] could attend a residential school. While [PAWN_nameDef] was not the best of students, [PAWN_pronoun] worked hard during [PAWN_possessive] classes and while participating on [PAWN_possessive] cricket team.</Rabbie_Student.baseDescription>
 
 
   <!-- Rabbie Hermit -->
 
-  <Rabbie_Hikikomori.title>Rabbie Hermit</Rabbie_Hikikomori.title>
+  <Rabbie_Hikikomori.title>Rabbie hermit</Rabbie_Hikikomori.title>
   <Rabbie_Hikikomori.titleShort>Hermit</Rabbie_Hikikomori.titleShort>
   <Rabbie_Hikikomori.baseDescription>[PAWN_nameDef], who was not well adapted to Rabbie society, spent most of [PAWN_possessive] time making videos in a small room with only the noise of the computer and the light of the monitor for company.</Rabbie_Hikikomori.baseDescription>
 
 
   <!-- Rabbie Delinquent -->
 
-  <Rabbie_Bully.title>Rabbie Delinquent</Rabbie_Bully.title>
+  <Rabbie_Bully.title>Rabbie delinquent</Rabbie_Bully.title>
   <Rabbie_Bully.titleShort>Delinquent</Rabbie_Bully.titleShort>
   <Rabbie_Bully.baseDescription>[PAWN_nameDef] became infamous as a teen for terrorizing the backstreets of [PAWN_possessive] neon lit city. [PAWN_pronoun] and [PAWN_possessive] friends ruled the streets through fists and teeth.</Rabbie_Bully.baseDescription>
 
 
   <!-- Rabbie Noble Adopted Child -->
 
-  <Rabbie_Adoptedchild.title>Rabbie Noble Adopted Child</Rabbie_Adoptedchild.title>
-  <Rabbie_Adoptedchild.titleShort>Adopted Child</Rabbie_Adoptedchild.titleShort>
+  <Rabbie_Adoptedchild.title>Rabbie noble adopted child</Rabbie_Adoptedchild.title>
+  <Rabbie_Adoptedchild.titleShort>Adopted child</Rabbie_Adoptedchild.titleShort>
   <Rabbie_Adoptedchild.baseDescription>][PAWN_nameDef] grew up as a servant to one of the Lunar Officers on [PAWN_possessive] home moon. \n\nFortunately, [PAWN_possessive] master was a good person and accepted [PAWN_possessive] as a foster child, allowing [PAWN_possessive] to attend school with the other noble children.</Rabbie_Adoptedchild.baseDescription>
 
 

@@ -18,57 +18,57 @@
   <Make_RB_Earjacket.description>Create a Rabbie earjacket.</Make_RB_Earjacket.description>
   <Make_RB_Earjacket.jobString>Making a Rabbie earjacket.</Make_RB_Earjacket.jobString>
 
-  <Make_RB_Casualribbonshirt.label>래비 리본셔츠 제작</Make_RB_Casualribbonshirt.label>
-  <Make_RB_Casualribbonshirt.description>래비 리본셔츠 제작.</Make_RB_Casualribbonshirt.description>
-  <Make_RB_Casualribbonshirt.jobString>래비 리본셔츠 제작.</Make_RB_Casualribbonshirt.jobString>
+  <Make_RB_Casualribbonshirt.label>Create Rabbie ribbon shirt</Make_RB_Casualribbonshirt.label>
+  <Make_RB_Casualribbonshirt.description>Create a Rabbie ribbon shirt.</Make_RB_Casualribbonshirt.description>
+  <Make_RB_Casualribbonshirt.jobString>Making a Rabbie ribbon shirt.</Make_RB_Casualribbonshirt.jobString>
 
-  <Make_RB_Starjacket.label>래비 별 점퍼 제작</Make_RB_Starjacket.label>
-  <Make_RB_Starjacket.description>래비 별 점퍼 제작.</Make_RB_Starjacket.description>
-  <Make_RB_Starjacket.jobString>래비 별 점퍼 제작.</Make_RB_Starjacket.jobString>
+  <Make_RB_Starjacket.label>Create Rabbie starjacket</Make_RB_Starjacket.label>
+  <Make_RB_Starjacket.description>Create a Rabbie starjacket.</Make_RB_Starjacket.description>
+  <Make_RB_Starjacket.jobString>Making a Rabbie starjacket.</Make_RB_Starjacket.jobString>
 
-  <Make_RB_Casualtieshirt.label>래비 넥타이셔츠 제작</Make_RB_Casualtieshirt.label>
-  <Make_RB_Casualtieshirt.description>래비 넥타이셔츠 제작.</Make_RB_Casualtieshirt.description>
-  <Make_RB_Casualtieshirt.jobString>래비 넥타이셔츠 제작.</Make_RB_Casualtieshirt.jobString>
+  <Make_RB_Casualtieshirt.label>Rabbie tie shirt</Make_RB_Casualtieshirt.label>
+  <Make_RB_Casualtieshirt.description>Create a Rabbie tie shirt.</Make_RB_Casualtieshirt.description>
+  <Make_RB_Casualtieshirt.jobString>Making a Rabbie tie shirt.</Make_RB_Casualtieshirt.jobString>
 
-  <Make_RB_Blazer.label>래비 블레이저 제작</Make_RB_Blazer.label>
-  <Make_RB_Blazer.description>래비 블레이저 제작.</Make_RB_Blazer.description>
-  <Make_RB_Blazer.jobString>래비 블레이저 제작.</Make_RB_Blazer.jobString>
+  <Make_RB_Blazer.label>Rabbie blazer</Make_RB_Blazer.label>
+  <Make_RB_Blazer.description>Create a Rabbie blazer.</Make_RB_Blazer.description>
+  <Make_RB_Blazer.jobString>Making a Rabbie blazer.</Make_RB_Blazer.jobString>
 
-  <Make_RB_Summerfit.label>래비 여름옷 제작</Make_RB_Summerfit.label>
-  <Make_RB_Summerfit.description>래비 여름옷 제작.</Make_RB_Summerfit.description>
-  <Make_RB_Summerfit.jobString>래비 여름옷 제작.</Make_RB_Summerfit.jobString>
+  <Make_RB_Summerfit.label>Rabbie summer shirt</Make_RB_Summerfit.label>
+  <Make_RB_Summerfit.description>Create a Rabbie summer shirt.</Make_RB_Summerfit.description>
+  <Make_RB_Summerfit.jobString>Making a Rabbie summer shirt.</Make_RB_Summerfit.jobString>
 
-  <Make_RB_Summerouter.label>래비 여름 가디건 제작</Make_RB_Summerouter.label>
-  <Make_RB_Summerouter.description>래비 여름 가디건 제작.</Make_RB_Summerouter.description>
-  <Make_RB_Summerouter.jobString>래비 여름 가디건 제작.</Make_RB_Summerouter.jobString>
+  <Make_RB_Summerouter.label>Rabbie summer cardigan</Make_RB_Summerouter.label>
+  <Make_RB_Summerouter.description>Create a Rabbie summer cardigan.</Make_RB_Summerouter.description>
+  <Make_RB_Summerouter.jobString>Making a Rabbie summer cardigan.</Make_RB_Summerouter.jobString>
 
-  <Make_RB_Summerhat.label>래비 흰챙 여름모자 제작</Make_RB_Summerhat.label>
-  <Make_RB_Summerhat.description>래비 흰챙 여름모자 제작.</Make_RB_Summerhat.description>
-  <Make_RB_Summerhat.jobString>래비 흰챙 여름모자 제작.</Make_RB_Summerhat.jobString>
+  <Make_RB_Summerhat.label>Rabbie summer hat</Make_RB_Summerhat.label>
+  <Make_RB_Summerhat.description>Create a Rabbie summer hat.</Make_RB_Summerhat.description>
+  <Make_RB_Summerhat.jobString>Making a Rabbie summer hat.</Make_RB_Summerhat.jobString>
 
-  <Make_RB_Winterknit.label>래비 겨울 스웨터 제작</Make_RB_Winterknit.label>
-  <Make_RB_Winterknit.description>래비 겨울 스웨터 제작.</Make_RB_Winterknit.description>
-  <Make_RB_Winterknit.jobString>래비 겨울 스웨터 제작.</Make_RB_Winterknit.jobString>
+  <Make_RB_Winterknit.label>Rabbie winter sweater</Make_RB_Winterknit.label>
+  <Make_RB_Winterknit.description>Create a Rabbie winter sweater.</Make_RB_Winterknit.description>
+  <Make_RB_Winterknit.jobString>Making a Rabbie winter sweater.</Make_RB_Winterknit.jobString>
 
-  <Make_RB_Winterouter.label>래비 겨울극지 파카 제작</Make_RB_Winterouter.label>
-  <Make_RB_Winterouter.description>래비 겨울극지 파카 제작.</Make_RB_Winterouter.description>
-  <Make_RB_Winterouter.jobString>래비 겨울극지 파카 제작.</Make_RB_Winterouter.jobString>
+  <Make_RB_Winterouter.label>Rabbie Parka</Make_RB_Winterouter.label>
+  <Make_RB_Winterouter.description>Create a Rabbie parka.</Make_RB_Winterouter.description>
+  <Make_RB_Winterouter.jobString>Making a Rabbie parka.</Make_RB_Winterouter.jobString>
 
-  <Make_RB_Winterhat.label>래비 겨울 털뭉치모자 제작</Make_RB_Winterhat.label>
-  <Make_RB_Winterhat.description>래비 겨울 털뭉치모자 제작.</Make_RB_Winterhat.description>
-  <Make_RB_Winterhat.jobString>래비 겨울 털뭉치모자 제작.</Make_RB_Winterhat.jobString>
+  <Make_RB_Winterhat.label>Rabbie toque</Make_RB_Winterhat.label>
+  <Make_RB_Winterhat.description>Create a Rabbie toque.</Make_RB_Winterhat.description>
+  <Make_RB_Winterhat.jobString>Making a Rabbie toque.</Make_RB_Winterhat.jobString>
 
-  <Make_RB_Headribbon.label>래비 멋내기 리본 제작</Make_RB_Headribbon.label>
-  <Make_RB_Headribbon.description>래비 멋내기 리본 제작.</Make_RB_Headribbon.description>
-  <Make_RB_Headribbon.jobString>래비 멋내기 리본 제작.</Make_RB_Headribbon.jobString>
+  <Make_RB_Headribbon.label>Rabbie ribbon</Make_RB_Headribbon.label>
+  <Make_RB_Headribbon.description>Create a Rabbie ribbon.</Make_RB_Headribbon.description>
+  <Make_RB_Headribbon.jobString>Making a Rabbie ribbon.</Make_RB_Headribbon.jobString>
 
-  <Make_RB_Fashionhat.label>래비 패션 모자 제작</Make_RB_Fashionhat.label>
-  <Make_RB_Fashionhat.description>래비 패션 모자 제작.</Make_RB_Fashionhat.description>
-  <Make_RB_Fashionhat.jobString>래비 패션 모자 제작.</Make_RB_Fashionhat.jobString>
+  <Make_RB_Fashionhat.label>Rabbie fancy hat</Make_RB_Fashionhat.label>
+  <Make_RB_Fashionhat.description>Create a Rabbie fancy hat.</Make_RB_Fashionhat.description>
+  <Make_RB_Fashionhat.jobString>Making a Rabbie fancy hat.</Make_RB_Fashionhat.jobString>
 
-  <Make_RB_Neckscarf.label>래비 겨울 목도리 제작</Make_RB_Neckscarf.label>
-  <Make_RB_Neckscarf.description>래비 겨울 목도리 제작.</Make_RB_Neckscarf.description>
-  <Make_RB_Neckscarf.jobString>래비 겨울 목도리 제작.</Make_RB_Neckscarf.jobString>
+  <Make_RB_Neckscarf.label>Rabbie shawl</Make_RB_Neckscarf.label>
+  <Make_RB_Neckscarf.description>Create a Rabbie shawl.</Make_RB_Neckscarf.description>
+  <Make_RB_Neckscarf.jobString>Making a Rabbie shawl.</Make_RB_Neckscarf.jobString>
 
 
   <!-- Recipe Users: RB_MoonTableMachining -->
