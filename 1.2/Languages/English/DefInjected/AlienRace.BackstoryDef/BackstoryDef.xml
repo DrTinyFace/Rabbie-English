@@ -64,32 +64,32 @@
   <Rabbie_Adoptedchild.baseDescription>][PAWN_nameDef] grew up as a servant to one of the Lunar Officers on [PAWN_possessive] home moon. \n\nFortunately, [PAWN_possessive] master was a good person and accepted [PAWN_possessive] as a foster child, allowing [PAWN_possessive] to attend school with the other noble children.</Rabbie_Adoptedchild.baseDescription>
 
 
-  <!-- 래비 사관학교 생도 -->
+  <!-- Rabbie Academy Student -->
 
-  <Rabbie_Academystudent.title>래비 사관학교 생도</Rabbie_Academystudent.title>
-  <Rabbie_Academystudent.titleShort>사관학교 생도</Rabbie_Academystudent.titleShort>
-  <Rabbie_Academystudent.baseDescription>[PAWN_nameDef]은 대대로 군직에 종사한 집안에서 태어난 아이입니다. \n\n본인의 의사는 둘째였고, 가족들의 기대로 인해 정규 교육 대신 래비 사관학교에 들어가 군인 혹은 장교로 입대하기 위해 공부와 훈련에만 힘썼습니다.</Rabbie_Academystudent.baseDescription>
-
-
-  <!-- 래비 날품팔이 -->
-
-  <Rabbie_Daylaborer.title>래비 날품팔이</Rabbie_Daylaborer.title>
-  <Rabbie_Daylaborer.titleShort>날품팔이</Rabbie_Daylaborer.titleShort>
-  <Rabbie_Daylaborer.baseDescription>누구도 [PAWN_nameDef]이 어디에서 왔는지 어디로 가는지 모릅니다. [PAWN_pronoun] 같은 아이는 어디에나 있고 어디에도 없는 그런 고아였고, 그날 그날 품팔이로 생계를 이었습니다.</Rabbie_Daylaborer.baseDescription>
+  <Rabbie_Academystudent.title>Rabbie academy student</Rabbie_Academystudent.title>
+  <Rabbie_Academystudent.titleShort>Academy student</Rabbie_Academystudent.titleShort>
+  <Rabbie_Academystudent.baseDescription>[PAWN_nameDef] was born into a family who had served the military for years. [PAWN_possessive] education was considered secondary, and [PAWN_pronoun] was sent to the Rabbie Academy to be trained as a soldier.</Rabbie_Academystudent.baseDescription>
 
 
-  <!-- 래비 사육당번 -->
+  <!-- Rabbie Civilian -->
 
-  <Rabbie_Feeder.title>래비 사육당번</Rabbie_Feeder.title>
-  <Rabbie_Feeder.titleShort>사육당번</Rabbie_Feeder.titleShort>
-  <Rabbie_Feeder.baseDescription>[PAWN_nameDef]은 학교에서 기르는 털 쥐와 족제비를 보살피고 사육하는 당번이었습니다. 양동이에 물을 받아 거북이의 등을 닦아 주는것도 잊지 않았습니다.</Rabbie_Feeder.baseDescription>
+  <Rabbie_Daylaborer.title>Rabbie civilian</Rabbie_Daylaborer.title>
+  <Rabbie_Daylaborer.titleShort>Civilian</Rabbie_Daylaborer.titleShort>
+  <Rabbie_Daylaborer.baseDescription>[PAWN_nameDef] was just your normal, everyday rabbie before [PAWN_pronoun] ended up on a rimworld.</Rabbie_Daylaborer.baseDescription>
 
 
-  <!-- 래비 중산층 아이 -->
+  <!-- Rabbie Animal Caretaker -->
 
-  <Rabbie_Child.title>래비 중산층 아이</Rabbie_Child.title>
-  <Rabbie_Child.titleShort>아이</Rabbie_Child.titleShort>
-  <Rabbie_Child.baseDescription>[PAWN_nameDef]은 도심 한가운데 위치한 아파트에서 부모님의 따뜻한 사랑을 받으며 자라난 착한 토끼였습니다. 친구들에게도 항상 상냥했습니다. \n\n[PAWN_pronoun]은 높은 아파트 발코니에서 낮에는 따듯한 빛으로, 밤에는 푸른색과 네온사인에 감싸인 달의 도시 풍경을 그리곤 했습니다.</Rabbie_Child.baseDescription>
+  <Rabbie_Feeder.title>Rabbie animal caretaker</Rabbie_Feeder.title>
+  <Rabbie_Feeder.titleShort>Animal caretaker</Rabbie_Feeder.titleShort>
+  <Rabbie_Feeder.baseDescription>[PAWN_nameDef] tended to the various animals that [PAWN_possessive] school had for the science department. [PAWN_pronoun] was always careful to take good care of them, never missing a feeding and keeping them clean and healthy.</Rabbie_Feeder.baseDescription>
+
+
+  <!-- Rabbie Middle Class -->
+
+  <Rabbie_Child.title>Rabbie middle class</Rabbie_Child.title>
+  <Rabbie_Child.titleShort>Middle class</Rabbie_Child.titleShort>
+  <Rabbie_Child.baseDescription>[PAWN_nameDef] grew up in the middle of [PAWN_possessive] city with two loving parents and surrounded by friends. [PAWN_pronoun] wasn't rich, but [PAWN_possessive] parents made enough to let [PAWN_possessive] pursue [PAWN_possessive] dreams.</Rabbie_Child.baseDescription>
 
 
   <!-- 래비 학생 -->
